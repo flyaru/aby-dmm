@@ -1,0 +1,10 @@
+{
+  "name": "airarabia-dmm-announcer",
+  "private": true,
+  "version": "1.1.0",
+  "description": "Air Arabia DMM PA web app with a Netlify neural TTS function",
+  "dependencies": {
+    "@travisvn/edge-tts": "*"
+  },
+  "engines": { "node": ">=20" }
+}
